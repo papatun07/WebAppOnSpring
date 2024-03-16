@@ -1,0 +1,10 @@
+POST localhost:8080/save-serials
+Content-Type: application/json
+
+{
+  "name": "Prison Break",
+  "description": "Best serial in the world!"
+}
+
+###
+DELETE
